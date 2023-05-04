@@ -1,0 +1,23 @@
+Ultrasonic Distance Sensor with Buzzer
+https://www.tinkercad.com/things/7kSO6i5Mrd7
+
+Actuator Surfacing
+https://www.tinkercad.com/things/gcBlfC5awop-niladri-dassensor-interfacing
+
+led push
+https://www.tinkercad.com/things/bJzmFdVyKHO-ledpush/editel
+
+
+
+// all 
+
+
+https://slogix.in/source-code/opennebula-samples/how-to-create-vm-in-opennebula/
+https://www.tinkercad.com/things/gcBlfC5awop-niladri-dassensor-interfacing
+https://www.tinkercad.com/things/3XTHLyvYliR-niladri-dasactuator-surfacing
+https://www.tinkercad.com/things/1vxst04XqxH?sharecode=WNliaO8oRkIs_AYqLGBr3lxQl3kJrp8C2mYTuvDVqcU
+https://www.tinkercad.com/things/h44cGD1Vjo3
+https://www.tinkercad.com/things/cwRZZQKEqBa?sharecode=q44khNr2iqRjGYkhjdtz3IJ3EmTW05QFhY_ELGQFkO8
+
+
+https://h-gholipour1988.medium.com/how-to-migrate-a-vm-from-opennebula-cluster-a-to-opennebula-cluster-b-d92b9d35d916
